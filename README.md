@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Junwoo-kang/Junwoo-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Junwoo Kang 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 저는 2024.1월초에 중앙정보기술인재개발원에서 교육을 수료하였고,  소프트웨어학과에서 2024.2월에 졸업하였습니다.
+
+### 📚 Skills
+<h3>Environment</h3>
+
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
+   
+  <h3>Language</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
+</span>
+  <h3>Framework</h3>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"/>
+
+<h4> DataBase </h4>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/mysql-%F80000.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+<br><br> 
+<h3>📊GitHub Stats & Most Used Languages📊</h3>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwoo-kang&layout=compact" alt="Top Languages">
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junwoo-kang&show_icons=true&theme=tokyonight)
+</div>
+
+  
+  
+
+
+
+<br>
+📌MyBlog📌<br><br> 
+<a href="https://blog.naver.com/wnsdnw"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+<br>
+
+📌MyPortfolio📌<br>
+<a href="https://github.com/Junwoo-kang/portfolio">portfolio</a>
+
+
+</div>
