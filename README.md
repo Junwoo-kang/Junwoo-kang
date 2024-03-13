@@ -3,6 +3,9 @@
 
 Junwoo Kang 😉
 
+📌MyPortfolio📌<br>
+<a href="https://github.com/Junwoo-kang/portfolio">portfolio</a>
+
  저는 2024.1월초에 중앙정보기술인재개발원에서 교육을 수료하였고,  소프트웨어학과에서 2024.2월에 졸업하였습니다.
 
 ### 📚 Skills
@@ -39,8 +42,6 @@ Junwoo Kang 😉
 <a href="https://blog.naver.com/wnsdnw"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 <br>
 
-📌MyPortfolio📌<br>
-<a href="https://github.com/Junwoo-kang/portfolio">portfolio</a>
 
 
 </div>
