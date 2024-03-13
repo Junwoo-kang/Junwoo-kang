@@ -1,10 +1,11 @@
 <div align="center">
 
 
-Junwoo Kang 😉
 
 📌MyPortfolio📌<br>
 <a href="https://github.com/Junwoo-kang/portfolio">portfolio</a>
+
+Junwoo Kang 😉
 
  저는 2024.1월초에 중앙정보기술인재개발원에서 교육을 수료하였고,  소프트웨어학과에서 2024.2월에 졸업하였습니다.
 
